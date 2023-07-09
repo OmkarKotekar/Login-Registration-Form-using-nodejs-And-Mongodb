@@ -1,0 +1,1 @@
+This is a basic project which shows how to integrate mongodb using node js for login and registration webpage which takes name email phone password for registration. Also uses name and password for login.
