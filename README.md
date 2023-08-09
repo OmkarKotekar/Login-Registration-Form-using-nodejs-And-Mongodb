@@ -2,7 +2,7 @@ This is a basic project which shows how to integrate mongodb using node js for l
 
 In terminal use-
 1.npm install mongodb
-2.npm run init
+2.npm init
 3.npm install express
 4.npm install -g nodemon (only once in the system)
 5.and finally nodemon server.js
